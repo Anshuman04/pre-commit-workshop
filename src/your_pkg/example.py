@@ -1,5 +1,15 @@
+"""
+Example module.
+"""
+
+
 def bla(a):
     """
-    bla bla bla
+    Bla bla bla.
+
+    Parameters
+    ----------
+    a : int
+        The number to be added.
     """
-    return a
+    pass
